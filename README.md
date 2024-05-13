@@ -37,10 +37,5 @@ Please refer to the script comments for more detailed usage instructions.
 
 R environment
 
-### Contributors
-Inés Alejandro Garcia Mosqueda
-Fernanda Elizabeth Romo Alarcon
-César Arnaldo Cabrera Chávez
-Javier Hernández Garza
-José Antonio Juárez Pacheco
+
 
